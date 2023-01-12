@@ -1,7 +1,14 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Bima Susila Mukti</h2>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BimaSM_)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bimasm__)
-[![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/bimasm)
-[![Email](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bimasm99@gmail.com)
+🟢 *I’m currently learning* **Laravel and ReactJS**
+
+<div align="center">
+  <sup>Get in touch with me</sup>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bima-susila-mukti/" target="_blank"><img src="https://img.icons8.com/color/512/linkedin.png" width="30" height="30"></a>
+  <a href="https://www.instagram.com/bimasm__/" target="_blank"><img src="https://img.icons8.com/color/512/instagram-new.png" width="30" height="30"></a>
+  <a href="mailto:bimasm99@Gmail.com" target="_blank"><img src="https://img.icons8.com/color/512/gmail.png" width="30" height="30"></a>
+</div>
 
